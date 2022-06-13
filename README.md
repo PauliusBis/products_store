@@ -1,1 +1,1 @@
-# products_store
+# products-store
